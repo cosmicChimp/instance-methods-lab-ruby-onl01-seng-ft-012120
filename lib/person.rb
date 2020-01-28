@@ -11,4 +11,4 @@ class Person
 end
 
 
-ada = .Person.new 
+ada = Person.new 
